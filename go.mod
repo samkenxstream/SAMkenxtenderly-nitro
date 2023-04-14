@@ -125,7 +125,7 @@ require (
 	github.com/cloudflare/cloudflare-go v0.14.0
 	github.com/consensys/gnark-crypto v0.4.1-0.20210426202927-39ac3d4b3f1f
 	github.com/docker/docker v1.6.2
-	github.com/ethereum/go-ethereum v1.10.16
+	github.com/ethereum/go-ethereum v1.10.22
 	github.com/fatih/color v1.7.0
 	github.com/fjl/gencodec v0.0.0-20220412091415-8bb9e558978c
 	github.com/google/gofuzz v1.1.1-0.20200604201612-c04b05f3adfa
@@ -136,7 +136,7 @@ require (
 	github.com/karalabe/usb v0.0.2
 	github.com/naoina/toml v0.1.2-0.20170918210437-9fafd6967416
 	github.com/peterh/liner v1.1.1-0.20190123174540-a2c9a5303de7
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	github.com/supranational/blst v0.3.8-0.20220526154634-513d2456b344
 	golang.org/x/mobile v0.0.0-20190719004257-d2bd2a29d028
 	golang.org/x/tools v0.1.12
@@ -156,5 +156,5 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
